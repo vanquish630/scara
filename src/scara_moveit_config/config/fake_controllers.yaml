@@ -1,0 +1,6 @@
+controller_list:
+  - name: fake_scara_arm_controller
+    joints:
+      - base_link1
+      - link1_link2
+      - link2_link3

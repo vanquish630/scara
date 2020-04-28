@@ -1,0 +1,1 @@
+/home/sohan/scara_ws/devel/.private/scara_ikfast_scara_arm_plugin/share/scara_ikfast_scara_arm_plugin/cmake/scara_ikfast_scara_arm_pluginConfig-version.cmake

@@ -1,0 +1,7 @@
+Symlinking /home/sohan/scara_ws/devel/share/roseus/ros/scara/manifest.l
+Symlinking /home/sohan/scara_ws/devel/share/scara/cmake/scaraConfig.cmake
+Symlinking /home/sohan/scara_ws/devel/share/scara/cmake/scara-msg-extras.cmake
+Symlinking /home/sohan/scara_ws/devel/share/scara/cmake/scara-msg-paths.cmake
+Symlinking /home/sohan/scara_ws/devel/share/scara/cmake/scaraConfig-version.cmake
+Symlinking /home/sohan/scara_ws/devel/lib/python2.7/dist-packages/scara/__init__.py
+Symlinking /home/sohan/scara_ws/devel/lib/pkgconfig/scara.pc

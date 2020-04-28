@@ -1,0 +1,8 @@
+prefix=/home/sohan/scara_ws/devel/.private/scara_moveit_config
+
+Name: scara_moveit_config
+Description: Description of scara_moveit_config
+Version: 0.3.0
+Cflags: 
+Libs: -L/home/sohan/scara_ws/devel/.private/scara_moveit_config/lib 
+Requires: 

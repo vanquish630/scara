@@ -1,0 +1,6 @@
+devel_space: /home/sohan/scara_ws/devel
+install: false
+install_space: /home/sohan/scara_ws/install
+profile: default
+source_space: /home/sohan/scara_ws/src
+workspace: /home/sohan/scara_ws

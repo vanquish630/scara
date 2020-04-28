@@ -1,0 +1,9 @@
+scara
+/home/sohan/scara_ws/devel/.private/scara/cmake.lock /home/sohan/scara_ws/devel/./cmake.lock
+/home/sohan/scara_ws/devel/.private/scara/share/roseus/ros/scara/manifest.l /home/sohan/scara_ws/devel/share/roseus/ros/scara/manifest.l
+/home/sohan/scara_ws/devel/.private/scara/share/scara/cmake/scaraConfig.cmake /home/sohan/scara_ws/devel/share/scara/cmake/scaraConfig.cmake
+/home/sohan/scara_ws/devel/.private/scara/share/scara/cmake/scara-msg-extras.cmake /home/sohan/scara_ws/devel/share/scara/cmake/scara-msg-extras.cmake
+/home/sohan/scara_ws/devel/.private/scara/share/scara/cmake/scara-msg-paths.cmake /home/sohan/scara_ws/devel/share/scara/cmake/scara-msg-paths.cmake
+/home/sohan/scara_ws/devel/.private/scara/share/scara/cmake/scaraConfig-version.cmake /home/sohan/scara_ws/devel/share/scara/cmake/scaraConfig-version.cmake
+/home/sohan/scara_ws/devel/.private/scara/lib/python2.7/dist-packages/scara/__init__.py /home/sohan/scara_ws/devel/lib/python2.7/dist-packages/scara/__init__.py
+/home/sohan/scara_ws/devel/.private/scara/lib/pkgconfig/scara.pc /home/sohan/scara_ws/devel/lib/pkgconfig/scara.pc

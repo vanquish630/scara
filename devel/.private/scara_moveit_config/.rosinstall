@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/sohan/scara_ws/devel/.private/scara_moveit_config/setup.sh

@@ -1,0 +1,1 @@
+/home/sohan/scara_ws/devel/.private/scara_moveit_config/share/scara_moveit_config/cmake/scara_moveit_configConfig-version.cmake

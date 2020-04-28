@@ -1,0 +1,1 @@
+/home/sohan/scara_ws/devel/.private/scara/share/scara/cmake/scaraConfig.cmake

@@ -1,0 +1,1 @@
+/home/sohan/scara_ws/devel/.private/scara_moveit_config/lib/pkgconfig/scara_moveit_config.pc
